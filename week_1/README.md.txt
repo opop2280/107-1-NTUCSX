@@ -1,6 +1,6 @@
    # 107-1-NTUCSX
 
-week1 作業說明
+ week1 作業說明
 
   
  in class: 
