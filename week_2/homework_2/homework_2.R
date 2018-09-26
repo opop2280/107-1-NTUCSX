@@ -1,12 +1,4 @@
----
-title: "homework_2 crawler practice"
-author: alan
-output: html_document
-date: 2018/9/26
----
-
-```{r}
-
+install.packages('rvest')  #安裝rvest套件
 library(rvest)
 
 title <- read_html("https://news.pts.org.tw/category/4")   
@@ -30,5 +22,3 @@ news_url <- url
 
 news <- data.frame(news_title,news_url)
 View(news)
-```
-
