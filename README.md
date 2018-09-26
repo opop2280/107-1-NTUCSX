@@ -21,3 +21,5 @@ in class:
 
 - week2
  第二周作業說明
+
+https://opop2280.github.io/107-1-NTUCSX/week_2/homework_2/homework_2.html
