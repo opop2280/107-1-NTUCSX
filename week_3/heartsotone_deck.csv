@@ -1,0 +1,20 @@
+deck name,win rate,class,Usage rate
+odd paladin,55.83%,paladin,2.30%
+even shaman,55.37%,shaman,2.00%
+odd rogue,54.93%,rogue,6.20%
+secret hunter,53.79%,hunter,3.00%
+zoo warlock,53.76%,warlock,9.20%
+token druid,53.27%,druid,5.20%
+deathrattle hunter,52.97%,hunter,5.50%
+even warlock,53.84%,warlock,4.70%
+tempo mage,52.61%,mage,6.00%
+odd warrior,52.31%,warrior,3.20%
+midrange shaman,52.09%,shaman,1.30%
+speel hunter,51.87%,hunter,2.00%
+big druid,51.05%,druid,0.50%
+mill druid,51.03%,druid,2.20%
+taunt druid,50.76%,druid,2.50%
+control priest,50.64%,priest,0.90%
+big spell mage,50.21%,mage,2.20%
+odd quest warrior,50.10%,warrior,0.70%
+deathrattle rogue,50.05%,rogue,0.70%
