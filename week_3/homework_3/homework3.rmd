@@ -1,0 +1,43 @@
+---
+title: "ggplot2_practice"
+author: "Alan"
+date: "2018年9月29日"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+mydata <-  read.csv("heartsotonedeck.csv")  # read csv file
+mydata_1 <- c[" ","45%"," ","10%"]
+mydata_2 <- c[,"60%",,"0%"]
+mydata <- cbind(mydata_1,mydata_2 )
+
+
+my.plot <- ggplot(mydata,aes(Usage.rate,win.rate,colour=cut))
+plot <- ggplot(data = mydata,mapping = aes(x = win.rate,y = Usage.rate))+
+  geom_point(size=3,aes(,color=class))+
+  geom_text(aes(label=deck.name,color=class),check_overlap = TRUE ,hjust=0.7,vjust=-1)
+plot
+  
+
+
+
+
+
+
+
+
+```
+
+
+
+  
+  
+  
+
+
+
+
+ 
+  
+
