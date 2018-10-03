@@ -39,3 +39,18 @@ in home:
 3.建立github連結
 
 R爬蟲HTML路徑 https://opop2280.github.io/107-1-NTUCSX/week_2/homework_2/homework_2 crawler.html/
+
+-week3 
+ 第三周作業說明
+
+in class
+
+1.閱讀ggplot2 相關資料
+
+in home
+
+1.上網找取資料並做成excel
+
+2.完成homework3
+
+3.https://opop2280.github.io/107-1-NTUCSX/week_3/homework_3/homework.html
